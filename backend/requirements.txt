@@ -4,3 +4,4 @@ insightface
 scikit-learn
 opencv-python
 python-multipart
+onnxruntime
