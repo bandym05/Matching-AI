@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("🆔 Face Match Verification Demo")
+st.title("🆔 Face Match Verification")
 
 id_image = st.file_uploader("Upload ID Card Image", type=["jpg", "jpeg", "png"])
 selfie_image = st.file_uploader("Upload Selfie or Headshot", type=["jpg", "jpeg", "png"])
